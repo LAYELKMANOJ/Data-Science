@@ -6,5 +6,5 @@ At its core, data science involves the use of various techniques, including mach
 
 The rise of big data, coupled with advancements in computing power and algorithms, has significantly expanded the scope of data science in recent years. Tools such as Python, R, and SQL, along with frameworks like TensorFlow and Hadoop, have become indispensable for data scientists in handling complex datasets and building predictive models.</P>
 
-<P>As the world generates more data than ever before, the role of data scientists continues to evolve. They are increasingly expected to not only interpret data but also communicate findings effectively to stakeholders and make ![image](https://github.com/user-attachments/assets/1b3ee04f-c0a0-4179-a738-768041718d81)
+<P>As the world generates more data than ever before, the role of data scientists continues to evolve. They are increasingly expected to not only interpret data but also communicate findings effectively to stakeholders and make <SRC= ttps://github.com/user-attachments/assets/1b3ee04f-c0a0-4179-a738-768041718d81 >
 data accessible and actionable. Data science thus stands as a key driver of innovation, efficiency, and growth in the modern world.</p>
