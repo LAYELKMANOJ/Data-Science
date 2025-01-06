@@ -22,6 +22,7 @@ Data science is widely used across various industries,including finance, healthc
 <p> 7. Sports and Entertainment</p>
 <P>In sports, data analytics enhances player performance, game strategies, and injury prevention. Entertainment platforms use data science to analyze user preferences and improve fan engagement, creating more enjoyable experiences.</P>
 <P> 8. Enhanced Security and Risk Management</P>
+<p>Data science strengthens cybersecurity by detecting threats and preventing breaches. It also supports insurance companies in risk assessment, ensuring fair premium calculations and efficient claims management.</p>
 
 
 
