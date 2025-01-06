@@ -21,7 +21,7 @@ Data science is widely used across various industries,including finance, healthc
 <p>Data science contributes to environmental conservation by monitoring climate changes and predicting their impacts. It aids in disaster management through real-time data analysis and supports urban planning by optimizing energy use and traffic flow in smart cities.</p>
 <p> 7. Sports and Entertainment</p>
 <P>In sports, data analytics enhances player performance, game strategies, and injury prevention. Entertainment platforms use data science to analyze user preferences and improve fan engagement, creating more enjoyable experiences.</P>
-<P></P>
+<P> 8. Enhanced Security and Risk Management</P>
 
 
 
