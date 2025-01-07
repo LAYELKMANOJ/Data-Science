@@ -26,5 +26,7 @@ Data science is widely used across various industries,including finance, healthc
 
 <p>Conclusion ..Data science is integral to modern life, driving innovation and solving complex problems. Its applications span diverse industries, and its influence on decision-making and convenience makes it an essential tool for shaping a smarter, more efficient world.</p>
 
+#UPDATES ON DATA SCIENCE
+
 
 
