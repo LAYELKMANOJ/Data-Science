@@ -31,4 +31,6 @@ Data science is widely used across various industries,including finance, healthc
 The rise of foundation models like ChatGPT and GPT-4 Turbo continues to drive innovation in automated data analysis, feature engineering, and synthetic data generation.
 Generative AI for coding (e.g., CoPilot) is now being extensively used to accelerate data science workflows, from exploratory data analysis (EDA) to building machine learning pipelines.</P>
 
-
+<p> Large-scale Adoption of Real-time Analytics</p>
+Real-time data pipelines using tools like Apache Kafka, Flink, and Delta Lake are increasingly common in industries like e-commerce, finance, and IoT.
+Event-driven architectures now enable low-latency predictions and adaptive decision-making.</p>
