@@ -34,3 +34,7 @@ Generative AI for coding (e.g., CoPilot) is now being extensively used to accele
 <p>2. Large-scale Adoption of Real-time Analytics</p>
 Real-time data pipelines using tools like Apache Kafka, Flink, and Delta Lake are increasingly common in industries like e-commerce, finance, and IoT.
 Event-driven architectures now enable low-latency predictions and adaptive decision-making.</p>
+
+<p>3.AI Regulation and Ethics
+Governments are introducing stricter AI regulations to address bias, discrimination, and safety concerns.
+Ethical AI frameworks are becoming essential in both academia and industry.</p>
