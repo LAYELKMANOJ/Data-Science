@@ -36,3 +36,5 @@ Event-driven architectures now enable low-latency predictions and adaptive decis
 <P>3.AI Regulation and Ethics</P> 
 Governments are introducing stricter AI regulations to address bias, discrimination, and safety concerns.
 Ethical AI frameworks are becoming essential in both academia and industry.</p>
+
+### PROJECTS BASED ON DATA SCIENCE
