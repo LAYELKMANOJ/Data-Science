@@ -38,3 +38,5 @@ Governments are introducing stricter AI regulations to address bias, discriminat
 Ethical AI frameworks are becoming essential in both academia and industry.</p>
 
 ### PROJECTS BASED ON DATA SCIENCE
+ Movie Recommendation System
+ Stock Price Prediction
