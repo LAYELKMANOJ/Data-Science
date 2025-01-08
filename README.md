@@ -26,7 +26,7 @@ Data science is widely used across various industries,including finance, healthc
 
 <p>Conclusion ..Data science is integral to modern life, driving innovation and solving complex problems. Its applications span diverse industries, and its influence on decision-making and convenience makes it an essential tool for shaping a smarter, more efficient world.</p>
 
-## UPDATES ON DATA SCIENCE
+### UPDATES ON DATA SCIENCE 2024
 <P>1. Generative AI Integration</P>
 The rise of foundation models like ChatGPT and GPT-4 Turbo continues to drive innovation in automated data analysis, feature engineering, and synthetic data generation.
 Generative AI for coding (e.g., CoPilot) is now being extensively used to accelerate data science workflows, from exploratory data analysis (EDA) to building machine learning pipelines.</P>
