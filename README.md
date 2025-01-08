@@ -39,4 +39,4 @@ Ethical AI frameworks are becoming essential in both academia and industry.</p>
 
 ### PROJECTS BASED ON DATA SCIENCE
  Movie Recommendation System</P>
- Stock Price Prediction
+ Stock Price Prediction</P>
