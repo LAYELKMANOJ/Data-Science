@@ -52,7 +52,7 @@ Ethical AI frameworks are becoming essential in both academia and industry.</p>
 _ _ _
 #### The field of data analytics can be divided into four primary types:
 
-Descriptive Analytics 
+<P>⭐Descriptive Analytics</P> 
  It provides insights into historical data by summarizing what has happened, often through charts, graphs, and reports.
 Diagnostic Analytics delves into understanding why something happened by identifying patterns and relationships within the data.
 Predictive Analytics uses statistical models and machine learning techniques to forecast future events based on historical data.
