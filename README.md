@@ -46,3 +46,9 @@ Ethical AI frameworks are becoming essential in both academia and industry.</p>
  _ _ _
 
 <P>Data analytics refers to the process of examining raw data to uncover patterns, trends, and insights that support decision-making. It involves systematically applying statistical and computational techniques to organize, analyze, and interpret data. By transforming raw data into actionable insights, organizations can enhance their operations, predict future outcomes, and make informed decisions. Data analytics is used across industries, including business, healthcare, sports, and finance, to solve problems and optimize performance.</P>
+Components of Data Analytics
+The field of data analytics can be divided into four primary types:
+
+Descriptive Analytics provides insights into historical data by summarizing what has happened, often through charts, graphs, and reports.
+Diagnostic Analytics delves into understanding why something happened by identifying patterns and relationships within the data.
+Predictive Analytics uses statistical models and machine learning techniques to forecast future events based on historical data.
