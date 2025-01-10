@@ -53,6 +53,7 @@ _ _ _
 #### The field of data analytics can be divided into four primary types:
 
 <P>⭐Descriptive Analytics</P> 
- It provides insights into historical data by summarizing what has happened, often through charts, graphs, and reports.
-Diagnostic Analytics delves into understanding why something happened by identifying patterns and relationships within the data.
+ It provides insights into historical data by summarizing what has happened, often through charts, graphs, and reports.</P>
+<p>Diagnostic Analytics</p> 
+It delves into understanding why something happened by identifying patterns and relationships within the data</p>.
 Predictive Analytics uses statistical models and machine learning techniques to forecast future events based on historical data.
