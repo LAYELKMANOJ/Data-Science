@@ -58,3 +58,4 @@ _ _ _
 It delves into understanding why something happened by identifying patterns and relationships within the data</p>
 <P>⭐Predictive Analytics</P> 
 It uses statistical models and machine learning techniques to forecast future events based on historical data </p>
+<p>⭐Prescriptive Analytics</p>
