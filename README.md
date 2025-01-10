@@ -49,7 +49,7 @@ Ethical AI frameworks are becoming essential in both academia and industry.</p>
 
 ### Components of Data Analytics
 
-_
+_ _ _
 The field of data analytics can be divided into four primary types:
 
 Descriptive Analytics provides insights into historical data by summarizing what has happened, often through charts, graphs, and reports.
