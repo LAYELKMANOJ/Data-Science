@@ -60,3 +60,5 @@ It delves into understanding why something happened by identifying patterns and 
 It uses statistical models and machine learning techniques to forecast future events based on historical data </p>
 <p>⭐Prescriptive Analytics</p>
 <P>suggests actionable steps based on predictive insights, often using advanced algorithms and optimization methods.</P>
+
+
