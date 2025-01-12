@@ -67,5 +67,5 @@ It uses statistical models and machine learning techniques to forecast future ev
 Importance of Data Analytics
 
 
-![MuaKissGIF](https://github.com/user-attachments/assets/249cae78-00ff-4258-a370-8e5ba54f47ae)
+
 
