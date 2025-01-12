@@ -64,4 +64,5 @@ It uses statistical models and machine learning techniques to forecast future ev
 <P>suggests actionable steps based on predictive insights, often using advanced algorithms and optimization methods.</P>
 
 
-Importance of Data Analytics
+Importance of Data Analytics ![MuaKissGIF](https://github.com/user-attachments/assets/249cae78-00ff-4258-a370-8e5ba54f47ae)
+
