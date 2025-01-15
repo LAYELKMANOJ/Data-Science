@@ -79,7 +79,7 @@ Data analytics fosters innovation by uncovering new opportunities and insights. 
 
 ---
 
-### FUTURE OF DATA ANALYSICS
+### FUTURE IN DATA ANALYSICS AND DATA SCIENCE
 
 
 
