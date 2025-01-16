@@ -12,6 +12,7 @@ Data science is widely used across various industries,including finance, healthc
 
 
 <p>1. Improved Decision-Making</p>
+
 <P> Data science empowers organizations and individuals to make informed decisions by analyzing data  patterns and trends. Businesses leverage it to optimize operations, forecast sales, and tailor marketing strategies, while governments use it to create policies and allocate resources efficiently.</p>
 <p>2. Advancements in Healthcare<P>
 <p>In healthcare, data science plays a critical role in early diagnosis, personalized treatment plans, and drug discovery. Predictive models help doctors identify potential health issues, and genomic data enables customized therapies for individual patients.</p>
