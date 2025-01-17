@@ -1,5 +1,5 @@
 # Data-Science 😊
-- - 
+
 <p>Data science is a multidisciplinary field that combines computer science, statistics, and domain expertise to extract meaningful insights from structured and unstructured data. It plays a crucial role in solving real-world problems by analyzing large volumes of data to help organizations make data-driven decisions. 
 At its core, data science involves the use of various techniques, including machine learning, statistical analysis, data mining, and big data technologies, to process and interpret data. By leveraging these techniques, data scientists can uncover patterns, trends, and correlations that may not be immediately apparent, providing actionable insights for businesses, governments, and other institutions.
 Data science is widely used across various industries,including finance, healthcare, marketing, and technology. In healthcare, for instance, it can be used to predict disease outbreaks, improve patient care, and optimize treatments. In marketing, data science helps companies analyze consumer behavior,  segment markets, and personalize advertisements. In the technology sector, it is central to the development of recommendation systems and autonomous systems, such as self-driving cars.</p>
@@ -79,7 +79,7 @@ Data analytics fosters innovation by uncovering new opportunities and insights. 
 
 ---
 
-## FUTURE IN DATA ANALYSICS AND DATA SCIENCE
+### FUTURE IN DATA ANALYSICS AND DATA SCIENCE
 
 The future of data analytics and data science is bright, driven by technological advancements and the growing reliance on data for decision-making. Here are some key trends:</p>
 💕Automation and AI Integration: Tools like AutoML and AI-powered analytics are simplifying data processes and making insights more accessible to non-technical users.</p>
