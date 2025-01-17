@@ -82,7 +82,7 @@ Data analytics fosters innovation by uncovering new opportunities and insights. 
 
 ### FUTURE IN DATA ANALYSICS AND DATA SCIENCE
 
-The future of data analytics and data science is bright, driven by technological advancements and the growing reliance on data for decision-making. Here are some key trends:
+The future of data analytics and data science is bright, driven by technological advancements and the growing reliance on data for decision-making. Here are some key trends:</p>
 💕Automation and AI Integration: Tools like AutoML and AI-powered analytics are simplifying data processes and making insights more accessible to non-technical users.</p>
 💕Real-Time Analytics: The rise of IoT and edge computing is increasing the demand for real-time data processing and insights.</p>
 💕Ethics and Responsible AI: As AI grows, ethical considerations like bias, transparency, and privacy will become more critical.</p>
