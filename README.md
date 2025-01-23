@@ -26,6 +26,7 @@ Data science is widely used across various industries,including finance, healthc
 <P> 8. Enhanced Security and Risk Management</P>
 <p>Data science strengthens cybersecurity by detecting threats and preventing breaches. It also supports insurance companies in risk assessment, ensuring fair premium calculations and efficient claims management.</p>
 
+
 <p>Conclusion ..Data science is integral to modern life, driving innovation and solving complex problems. Its applications span diverse industries, and its influence on decision-making and convenience makes it an essential tool for shaping a smarter, more efficient world.</p>
 
 ### UPDATES ON DATA SCIENCE 2024
