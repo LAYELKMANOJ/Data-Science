@@ -9,6 +9,7 @@ Data science is widely used across various industries,including finance, healthc
 
 <p>The rise of big data, coupled with advancements in computing power and algorithms, has significantly  expanded the scope of data science in recent years. Tools such as Python, R and SQL along with frameworks like TensorFlow and Hadoop, have become indispensable for data scientists in handling complex datasets and building predictive models.</P>
 
+
 ### Importance of Data Science in Real Life 
 <p>1. Improved Decision-Making</p>  
 
