@@ -1,7 +1,7 @@
 
 # Data-Science 😊
 
----    
+---       
    
 <p>Data science is a multidisciplinary field that combines computer science, statistics, and domain expertise to extract meaningful insights from structured and unstructured data. It plays a crucial role in solving real-world problems by analyzing large volumes of data to help organizations make data-driven decisions. 
 At its core, data science involves the use of various techniques, including machine learning, statistical analysis, data mining, and big data technologies, to process and interpret data. By leveraging these techniques, data scientists can uncover patterns, trends and correlations that may not be immediately apparent, providing actionable insights for businesses, governments and other institutions.
