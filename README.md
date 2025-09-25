@@ -11,7 +11,7 @@ Data science is widely used across various industries,including finance, healthc
          
       
 ### Importance of Data Science in Real Life 
----   
+---      
 <p>1. Improved Decision-Making</p>  
 
 <P> Data science empowers organizations and individuals to make informed decisions by analyzing data  patterns and trends. Businesses leverage it to optimize operations, forecast sales, and tailor marketing strategies, while governments use it to create policies and allocate resources efficiently.</p>
