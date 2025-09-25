@@ -19,7 +19,7 @@ Data science is widely used across various industries,including finance, healthc
 <p>In healthcare, data science plays a critical role in early diagnosis, personalized treatment plans, and drug discovery. Predictive models help doctors identify potential health issues, and genomic data enables customized therapies for individual patients.</p>
 <P>3. Enhancing Everyday Convenience</P>
 <p>Data science enhances daily life through applications like personalized recommendations on platforms such as Netflix and Amazon, optimized routes on GPS systems, and adaptive technologies in smart homes, which learn and adjust to user preferences.</p>
-<P>4. Transforming Finance</P>
+<P>4. Transforming Finance</P>  
 <p>Financial institutions rely on data science for fraud detection, investment strategies, and credit scoring. By analyzing transaction patterns and market trends, data models improve security and guide smarter financial decisions.</P>  
 <p>5. Revolutionizing Education</p>
 <P>In education, data science enables personalized learning experiences by analyzing student performance and adapting teaching methods. It also identifies students at risk of dropping out and provides timely interventions to improve outcomes.</P>
