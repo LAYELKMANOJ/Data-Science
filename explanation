@@ -4,7 +4,7 @@
 
 This project demonstrates a complete Machine Learning workflow using the **Random Forest Classifier** algorithm in Python. It covers data preprocessing, model training, prediction, evaluation, and visualization of results. The project serves as a practical example of how classification models can be built and assessed using real-world datasets.
 
-## 🚀 Features
+## 🚀 Features 
 
 * Data loading and preprocessing
 * Missing value handling
